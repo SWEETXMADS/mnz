@@ -148,7 +148,7 @@ class _HomepageState extends State<Homepage> {
 
           Padding(
             padding: const EdgeInsets.all(11.0),
-            child: Text('CATEGORY',
+            child: Text('CONFERENCE NAME',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
@@ -159,7 +159,7 @@ class _HomepageState extends State<Homepage> {
           //
           Padding(
             padding: const EdgeInsets.all(11.0),
-            child: Text('Recent Products',
+            child: Text('HOST details',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
